@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Natanael-Postolache
-- 👀 I’m interested in finding a programming job
+- 👀 I’m interested in starting a job as a junior programmer
 - 🌱 I’m currently learning C++, Java, Python, JavaScript, HTML, CSS and SQL
 - 💞️ I’m currently working on my personal project
 - 📫 How to reach me:
